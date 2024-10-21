@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 4052679539fcfcb468822a6914ccf81e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 299
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f1c961d1878b419b980e1c09e6292
+      internalID: -513421627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 299
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9527ac97839d6034391b4cad369ed896
+      internalID: -1727027999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 341
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09e0eafc9350b4ba9bb4252a32ffac
+      internalID: -1677818115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 299
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45acc2876eaa083408223f82c629c2b2
+      internalID: -468376290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 299
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a80a8391d0fd4182089fe18f1043a
+      internalID: -1133989739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 299
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a495e45090d94d981e0ab902e9eac
+      internalID: -1786915295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 299
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780579e7fda37d429000cbb3ef1f866
+      internalID: 1968561743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2847f1a85824c4b9a76df47ba34d26
+      internalID: 267252603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 224
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d62608320987244ab9a1b37683f0e0
+      internalID: -1612265942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 266
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b536e670689ada488f87feeeec16941
+      internalID: 535576597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 224
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0e2fb676e94a44948441fe81465f5
+      internalID: -1594020063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b8ffa351561c4e9bdb7e377c7eec7
+      internalID: -914695962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 224
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a62741b7301cf43b11ace534bcd760
+      internalID: 1061681579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 224
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0967931c4aa84087d290d7f628bea
+      internalID: -1648733714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2dfe32e59d6141b336c85b12904ce
+      internalID: -1051562785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 93
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f325a0871820d04f8cb2b696b0bc3ec
+      internalID: 1733121435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 93
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebeb4d0f62e3a40abc6ea55c6fe221
+      internalID: -956824672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 93
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af9adafd0c889944bc4264a156084b6
+      internalID: 163016352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 93
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158fbc7f4c7efc43b58eae569c8bad9
+      internalID: 1931916135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 93
+        width: 114
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06508ba02047bd4f94e6b90c486ebd9
+      internalID: 1500678337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4064c92b43efc94981074c72978fe43
+      internalID: 1657016670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1555308c2d5f2b64b94a0894cdb31e0e
+      internalID: 191948260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 43
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061c6fe0dd13e445aaebe12a4f08b5c
+      internalID: -360873752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e0387afcde164d9d355de9d28d0c1
+      internalID: -472828049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 43
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247da640512510844a968bc6e98183d3
+      internalID: -1077707547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bce40cebe4034a4f9ecd7af06fa294c
+      internalID: 804596138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3cd49488d74047a787ae8580a7eda
+      internalID: -991040118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 24
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b94b483f94c27e4db8254e1ad377713
+      internalID: -1200382156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 24
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315ff6b9bb2a0c40abddec58c5cf23f
+      internalID: -1441492468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b4d279577fb645b564fbb6c040cdb
+      internalID: -684780424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 24
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0497ba7e9494fa4c9ced59c42d7dbc3
+      internalID: 1184574228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03d9d52a6ae5754fa5b8dd5f192d6e7
+      internalID: -1730711827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Scuba Pepe_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d22cd418bd6374b8e55504db12bebf
+      internalID: 2006269530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Scuba Pepe_0: -513421627
+      PC Computer - MapleStory - Scuba Pepe_1: -1727027999
+      PC Computer - MapleStory - Scuba Pepe_10: -1594020063
+      PC Computer - MapleStory - Scuba Pepe_11: -914695962
+      PC Computer - MapleStory - Scuba Pepe_12: 1061681579
+      PC Computer - MapleStory - Scuba Pepe_13: -1648733714
+      PC Computer - MapleStory - Scuba Pepe_14: -1051562785
+      PC Computer - MapleStory - Scuba Pepe_15: 1733121435
+      PC Computer - MapleStory - Scuba Pepe_16: -956824672
+      PC Computer - MapleStory - Scuba Pepe_17: 163016352
+      PC Computer - MapleStory - Scuba Pepe_18: 1931916135
+      PC Computer - MapleStory - Scuba Pepe_19: 1500678337
+      PC Computer - MapleStory - Scuba Pepe_2: -1677818115
+      PC Computer - MapleStory - Scuba Pepe_20: 1657016670
+      PC Computer - MapleStory - Scuba Pepe_21: 191948260
+      PC Computer - MapleStory - Scuba Pepe_22: -360873752
+      PC Computer - MapleStory - Scuba Pepe_23: -472828049
+      PC Computer - MapleStory - Scuba Pepe_24: -1077707547
+      PC Computer - MapleStory - Scuba Pepe_25: 804596138
+      PC Computer - MapleStory - Scuba Pepe_26: -991040118
+      PC Computer - MapleStory - Scuba Pepe_27: -1200382156
+      PC Computer - MapleStory - Scuba Pepe_28: -1441492468
+      PC Computer - MapleStory - Scuba Pepe_29: -684780424
+      PC Computer - MapleStory - Scuba Pepe_3: -468376290
+      PC Computer - MapleStory - Scuba Pepe_30: 1184574228
+      PC Computer - MapleStory - Scuba Pepe_31: -1730711827
+      PC Computer - MapleStory - Scuba Pepe_32: 2006269530
+      PC Computer - MapleStory - Scuba Pepe_4: -1133989739
+      PC Computer - MapleStory - Scuba Pepe_5: -1786915295
+      PC Computer - MapleStory - Scuba Pepe_6: 1968561743
+      PC Computer - MapleStory - Scuba Pepe_7: 267252603
+      PC Computer - MapleStory - Scuba Pepe_8: -1612265942
+      PC Computer - MapleStory - Scuba Pepe_9: 535576597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
