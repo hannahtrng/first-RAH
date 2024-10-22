@@ -31,7 +31,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 2
+        time: 2.5
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -52,20 +52,28 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -1727027999, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
-    - time: 0.06666667
+    - time: 0.5
       value: {fileID: -1133989739, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
-    - time: 0.16666667
+    - time: 0.75
+      value: {fileID: -1612265942, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - time: 1
+      value: {fileID: 1968561743, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - time: 1.25
       value: {fileID: -468376290, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
-    - time: 0.23333333
+    - time: 1.5
+      value: {fileID: -1594020063, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - time: 1.75
       value: {fileID: -1786915295, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
-    - time: 0.3
+    - time: 2
+      value: {fileID: -1594020063, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - time: 2.25
       value: {fileID: -513421627, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 30
+  m_SampleRate: 4
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -93,15 +101,19 @@ AnimationClip:
     pptrCurveMapping:
     - {fileID: -1727027999, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
     - {fileID: -1133989739, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - {fileID: -1612265942, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - {fileID: 1968561743, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
     - {fileID: -468376290, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - {fileID: -1594020063, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
     - {fileID: -1786915295, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
+    - {fileID: -1594020063, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
     - {fileID: -513421627, guid: 4052679539fcfcb468822a6914ccf81e, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 2
+    m_StopTime: 2.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -131,7 +143,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 2
+        time: 2.5
         value: 1
         inSlope: Infinity
         outSlope: Infinity
